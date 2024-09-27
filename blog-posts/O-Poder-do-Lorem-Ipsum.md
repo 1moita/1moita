@@ -6,11 +6,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vi
 
 ### 1. Estética
 
-Lorem ipsum é uma ==ótima maneira de preencher espaços em projetos de design==, permitindo que o foco permaneça na formatação e no layout.
+Lorem ipsum é uma ótima maneira de preencher espaços em projetos de design, permitindo que o foco permaneça na formatação e no layout.
 
 ### 2. Simulação de Conteúdo
 
-Usar texto genérico ajuda a =simular a aparência de um texto real=, tornando a visualização mais realista.
+Usar texto genérico ajuda a simular a aparência de um texto real, tornando a visualização mais realista.
 
 ## Exemplos de Uso
 
@@ -22,7 +22,7 @@ Aqui estão alguns exemplos de onde o Lorem Ipsum é comumente utilizado:
 
 ## Conclusão
 
-Embora o Lorem Ipsum seja apenas um texto fictício, sua importância no design e na apresentação de conteúdo não pode ser subestimada. =Utilize-o de forma estratégica= em seus projetos!
+Embora o Lorem Ipsum seja apenas um texto fictício, sua importância no design e na apresentação de conteúdo não pode ser subestimada. Utilize-o de forma estratégica em seus projetos!
 
 ### Referências
 
